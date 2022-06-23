@@ -6,8 +6,8 @@ public class CreditCalculator {
 
     }
 
-    public Object sumPerMonth(int sum, double rate, int period) {
-        return null;
+    public int sumPerMonth(int sum, double rate, int period) {
+        return sum;
     }
 
     public int fullSumReturn(int sum, double rate, int period) {
